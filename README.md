@@ -1,6 +1,6 @@
 # Compra e Venda de ações
-
 ## da busca dos dados até colocar em produção
+![acoes-1](https://user-images.githubusercontent.com/55574172/125682188-207308ac-fc3d-4fc5-8f8d-487bc1b1aad4.jpg)
 
 
 # Buscando os dados
