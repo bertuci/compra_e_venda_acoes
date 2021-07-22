@@ -23,7 +23,7 @@ if ontem != hoje:
 
 e no macd_bot.py está a o código para automatizar o bot, basta apenas encontrar algum serviço que rode o seu código e adicioná-lo.
 
-#STREAMLIT E ARQUIVO PRONTO
+# STREAMLIT E ARQUIVO PRONTO
 coloquei o projeto no Streamlit para que dê para analisar todas as ações de maneira fácil e rápida. Basta colocar o arquivo que foi feito na parte de engenharia de dados e caso não queira fazer essa parte, disponibilizei o arquivo no seguinte link: <a>https://1drv.ms/u/s!Aspr3ED-ZkUEaTNKojOQevr3kvI?e=YRDbKm <a/>
 
 para acessar o projeto online basta seguir este link: <a> https://share.streamlit.io/bertuci/compra_e_venda_acoes/main/streamlit_github/webappacoes.py <a/>
