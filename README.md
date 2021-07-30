@@ -16,7 +16,7 @@ Para buscar os dados podermos ir até o site da B3 Bolsa de Valores do Brasil na
 my_token = 'aqui vai o token do bot'
 chat_id = 'e aqui vai o id do chat que na frente deve-se colocar o sinal de menos "-"'
   
-E caso queira receber testar se tudo está funcionando basta ir até o ultimo campo jo jupyter notebook e tirar a parte do if:
+E caso queira receber testar se tudo está funcionando basta ir até o ultimo campo do jupyter notebook e tirar a parte do if:
 if ontem != hoje:
     envia_mensagem(msg, chat_id, my_token)
 
